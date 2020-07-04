@@ -1,4 +1,6 @@
-### 🌱 I’m currently learning how to be smart
+### Welcome to my profile!
+
+I'm not really sure what to add, but I'll think of something.
 
 <!--
 **RBOrtmann/RBOrtmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
