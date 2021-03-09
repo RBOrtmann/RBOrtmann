@@ -2,7 +2,7 @@
 
 I'm not really sure what to add, but I'll think of something.
 
-![gif](https://media.giphy.com/media/IMDSOJvLn9RaU/giphy.gif)
+![gif](https://i.kym-cdn.com/photos/images/newsfeed/001/020/665/b72.gif)
 
 <!--
 **RBOrtmann/RBOrtmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
