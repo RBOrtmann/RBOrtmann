@@ -1,4 +1,4 @@
-### Welcome to my profile!
+## Welcome to my profile!
 
 I'm currently working on my senior project, [YADA](https://github.com/Yet-Another-Data-Aggregator/yada-web). A live demo can be found [here](yada-demo.netlify.app).
 
