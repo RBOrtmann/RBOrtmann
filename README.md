@@ -1,8 +1,8 @@
 ### Welcome to my profile!
 
-I'm not really sure what to add, but I'll think of something.
+I'm currently working on my senior project, [YADA](https://github.com/Yet-Another-Data-Aggregator/yada-web). A live demo can be found [here](yada-demo.netlify.app).
 
-![gif](https://i.kym-cdn.com/photos/images/newsfeed/001/020/665/b72.gif)
+As I prepare to graduate from college, I'm looking for jobs in the Nashville, TN area and the Charlotte, NC area.
 
 <!--
 **RBOrtmann/RBOrtmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
