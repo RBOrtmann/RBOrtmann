@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-I'm currently working on my senior project, [YADA](https://github.com/Yet-Another-Data-Aggregator/yada-web). A live demo can be found [here](yada-demo.netlify.app).
+I'm currently working on my senior project, [YADA](https://github.com/Yet-Another-Data-Aggregator/yada-web). A live demo can be found [here](https://yada-demo.netlify.app).
 
 As I prepare to graduate from college, I'm looking for jobs in the Nashville, TN area and the Charlotte, NC area.
 
