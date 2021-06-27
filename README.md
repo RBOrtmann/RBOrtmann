@@ -1,8 +1,8 @@
 ## Welcome to my profile!
 
-I'm currently working on my senior project, [YADA](https://github.com/Yet-Another-Data-Aggregator/yada-web). A live demo can be found [here](https://yada-demo.netlify.app).
+I recently finished my senior project, [YADA](https://github.com/Yet-Another-Data-Aggregator/yada-web). A live demo can be found [here](https://yada-demo.netlify.app).
 
-As I prepare to graduate from college, I'm looking for jobs in the Nashville, TN area and the Charlotte, NC area.
+As a recent college graduate, I'm primarily looking for software development and engineering jobs in the Charlotte, NC area.
 
 <!--
 **RBOrtmann/RBOrtmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
