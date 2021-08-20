@@ -2,7 +2,7 @@
 
 I recently finished my senior project, [YADA](https://github.com/Yet-Another-Data-Aggregator/yada-web). A live demo can be found [here](https://yada-demo.netlify.app).
 
-As a recent college graduate, I'm primarily looking for software development and engineering jobs in the Charlotte, NC area.
+I recently took a job working for Gemini Shale Solutions as a Software Developer.
 
 <!--
 **RBOrtmann/RBOrtmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
