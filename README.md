@@ -1,8 +1,6 @@
 ## Welcome to my profile!
 
-I recently finished my senior project, [YADA](https://github.com/Yet-Another-Data-Aggregator/yada-web). A live demo can be found [here](https://yada-demo.netlify.app).
-
-I recently took a job working for Gemini Shale Solutions as a Software Developer.
+I recently took a job working for LBMC as a Software Engineer. I've been working heavily with Microsoft's Azure suite to build software for internal clients.
 
 <!--
 **RBOrtmann/RBOrtmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
