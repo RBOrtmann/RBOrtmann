@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-I recently took a job working for LBMC as a Software Engineer. I've been working heavily with Microsoft's Azure suite to build software for internal clients.
+This profile is a hub for my personal projects :) 
 
 <!--
 **RBOrtmann/RBOrtmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
